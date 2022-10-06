@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++17 -DNIST_EXTERN_FRVT_STRUCTS_VERSION -DNIST_EXTERN_API_VERSION -O3 -DNDEBUG  -rdynamic CMakeFiles/validate11.dir/home/daksha/Documentos/frvt/common/src/util/util.cpp.o CMakeFiles/validate11.dir/validate11.cpp.o  -o ../../../bin/validate11  -Wl,-rpath,/home/daksha/Documentos/frvt/11/lib ../../../lib/libfrvt_11_facedaksha_000.so 

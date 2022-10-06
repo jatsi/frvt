@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++17 -O3 -DNDEBUG -fPIC   -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS
 
 CXX_DEFINES = -Dfrvt_11_facedaksha_000_EXPORTS
 
-CXX_INCLUDES = -I/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/../include -I/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/../../../common/src/include -I/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/.. -isystem /usr/local/include/opencv4 
+CXX_INCLUDES = -I/home/daksha/Documentos/frvt/11/src/facedakshaImp/../include -I/home/daksha/Documentos/frvt/11/src/facedakshaImp/../../../common/src/include -I/home/daksha/Documentos/frvt/11/lib/dlib/dlib/.. -isystem /usr/local/include/opencv4 
 

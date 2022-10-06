@@ -1,4 +1,4 @@
-# Install script for directory: /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib
+# Install script for directory: /home/daksha/Documentos/frvt/11/lib/dlib/dlib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

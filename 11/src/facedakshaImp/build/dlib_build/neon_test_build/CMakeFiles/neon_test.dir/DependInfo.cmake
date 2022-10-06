@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp" "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles/neon_test.dir/neon_test.cpp.o"
+  "/home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp" "/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles/neon_test.dir/neon_test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

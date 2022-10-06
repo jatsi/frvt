@@ -7,10 +7,10 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon/CMakeLists.txt"
-  "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake"
-  "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
-  "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/3.16.3/CMakeSystem.cmake"
+  "/home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon/CMakeLists.txt"
+  "/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake"
+  "/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
+  "/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/3.16.3/CMakeSystem.cmake"
   "/usr/share/cmake-3.16/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.16/Modules/CMakeCXXInformation.cmake"
   "/usr/share/cmake-3.16/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"

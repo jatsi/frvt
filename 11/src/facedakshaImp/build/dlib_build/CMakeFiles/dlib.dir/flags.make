@@ -7,11 +7,11 @@ C_FLAGS = -O3 -DNDEBUG -fPIC   -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LA
 
 C_DEFINES = -DDLIB_JPEG_STATIC
 
-C_INCLUDES = -I/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/../include -I/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/../../../common/src/include -I/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/external/libpng -I/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/external/zlib 
+C_INCLUDES = -I/home/daksha/Documentos/frvt/11/src/facedakshaImp/../include -I/home/daksha/Documentos/frvt/11/src/facedakshaImp/../../../common/src/include -I/home/daksha/Documentos/frvt/11/lib/dlib/dlib/external/libpng -I/home/daksha/Documentos/frvt/11/lib/dlib/dlib/external/zlib 
 
 CXX_FLAGS =  -std=c++17 -O3 -DNDEBUG -fPIC   -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DLAPACK_FORCE_UNDERSCORE -Wreturn-type
 
 CXX_DEFINES = -DDLIB_JPEG_STATIC
 
-CXX_INCLUDES = -I/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/../include -I/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/../../../common/src/include -I/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/external/libpng -I/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/external/zlib 
+CXX_INCLUDES = -I/home/daksha/Documentos/frvt/11/src/facedakshaImp/../include -I/home/daksha/Documentos/frvt/11/src/facedakshaImp/../../../common/src/include -I/home/daksha/Documentos/frvt/11/lib/dlib/dlib/external/libpng -I/home/daksha/Documentos/frvt/11/lib/dlib/dlib/external/zlib 
 

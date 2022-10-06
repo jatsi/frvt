@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon
+CMAKE_SOURCE_DIR = /home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build
+CMAKE_BINARY_DIR = /home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/neon_test.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/neon_test.dir/progress.make
 include CMakeFiles/neon_test.dir/flags.make
 
 CMakeFiles/neon_test.dir/neon_test.cpp.o: CMakeFiles/neon_test.dir/flags.make
-CMakeFiles/neon_test.dir/neon_test.cpp.o: /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/neon_test.dir/neon_test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/neon_test.dir/neon_test.cpp.o -c /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp
+CMakeFiles/neon_test.dir/neon_test.cpp.o: /home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/neon_test.dir/neon_test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/neon_test.dir/neon_test.cpp.o -c /home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp
 
 CMakeFiles/neon_test.dir/neon_test.cpp.i: cmake_force
 	@echo "Preprocessing CXX source to CMakeFiles/neon_test.dir/neon_test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp > CMakeFiles/neon_test.dir/neon_test.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp > CMakeFiles/neon_test.dir/neon_test.cpp.i
 
 CMakeFiles/neon_test.dir/neon_test.cpp.s: cmake_force
 	@echo "Compiling CXX source to assembly CMakeFiles/neon_test.dir/neon_test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp -o CMakeFiles/neon_test.dir/neon_test.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon/neon_test.cpp -o CMakeFiles/neon_test.dir/neon_test.cpp.s
 
 # Object files for target neon_test
 neon_test_OBJECTS = \
@@ -80,7 +80,7 @@ neon_test_EXTERNAL_OBJECTS =
 libneon_test.a: CMakeFiles/neon_test.dir/neon_test.cpp.o
 libneon_test.a: CMakeFiles/neon_test.dir/build.make
 libneon_test.a: CMakeFiles/neon_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libneon_test.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libneon_test.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/neon_test.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/neon_test.dir/link.txt --verbose=$(VERBOSE)
 
@@ -94,6 +94,6 @@ CMakeFiles/neon_test.dir/clean:
 .PHONY : CMakeFiles/neon_test.dir/clean
 
 CMakeFiles/neon_test.dir/depend:
-	cd /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon /home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/cmake_utils/test_for_neon /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles/neon_test.dir/DependInfo.cmake
+	cd /home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon /home/daksha/Documentos/frvt/11/lib/dlib/dlib/cmake_utils/test_for_neon /home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build /home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build /home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/neon_test_build/CMakeFiles/neon_test.dir/DependInfo.cmake
 .PHONY : CMakeFiles/neon_test.dir/depend
 

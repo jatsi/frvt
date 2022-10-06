@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/facedakshafrvt11.cpp" "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o"
+  "/home/daksha/Documentos/frvt/11/src/facedakshaImp/facedakshafrvt11.cpp" "/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -17,13 +17,13 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../../include"
   "../../../../common/src/include"
-  "/home/daksha/Descargas/frvt-master/11/lib/dlib/dlib/.."
+  "/home/daksha/Documentos/frvt/11/lib/dlib/dlib/.."
   "/usr/local/include/opencv4"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/CMakeFiles/dlib.dir/DependInfo.cmake"
+  "/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/CMakeFiles/dlib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

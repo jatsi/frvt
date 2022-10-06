@@ -1,6 +1,6 @@
-/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/edit_cache.dir
-/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/rebuild_cache.dir
-/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/frvt_11_facedaksha_000.dir
-/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/CMakeFiles/edit_cache.dir
-/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/CMakeFiles/rebuild_cache.dir
-/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/CMakeFiles/dlib.dir
+/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/edit_cache.dir
+/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/rebuild_cache.dir
+/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/frvt_11_facedaksha_000.dir
+/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/CMakeFiles/edit_cache.dir
+/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/CMakeFiles/dlib.dir

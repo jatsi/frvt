@@ -1,4 +1,4 @@
-# Install script for directory: /home/daksha/Descargas/frvt-master/11/src/facedakshaImp
+# Install script for directory: /home/daksha/Documentos/frvt/11/src/facedakshaImp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/dlib_build/cmake_install.cmake")
+  include("/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/dlib_build/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

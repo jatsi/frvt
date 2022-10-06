@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/daksha/Descargas/frvt-master/11/src/facedakshaImp
+CMAKE_SOURCE_DIR = /home/daksha/Documentos/frvt/11/src/facedakshaImp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build
+CMAKE_BINARY_DIR = /home/daksha/Documentos/frvt/11/src/facedakshaImp/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/frvt_11_facedaksha_000.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/frvt_11_facedaksha_000.dir/flags.make
 
 CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o: CMakeFiles/frvt_11_facedaksha_000.dir/flags.make
 CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o: ../facedakshafrvt11.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o -c /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/facedakshafrvt11.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o -c /home/daksha/Documentos/frvt/11/src/facedakshaImp/facedakshafrvt11.cpp
 
 CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/facedakshafrvt11.cpp > CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/daksha/Documentos/frvt/11/src/facedakshaImp/facedakshafrvt11.cpp > CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.i
 
 CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/facedakshafrvt11.cpp -o CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/daksha/Documentos/frvt/11/src/facedakshaImp/facedakshafrvt11.cpp -o CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.s
 
 # Object files for target frvt_11_facedaksha_000
 frvt_11_facedaksha_000_OBJECTS = \
@@ -77,66 +77,66 @@ frvt_11_facedaksha_000_OBJECTS = \
 # External object files for target frvt_11_facedaksha_000
 frvt_11_facedaksha_000_EXTERNAL_OBJECTS =
 
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: CMakeFiles/frvt_11_facedaksha_000.dir/build.make
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: dlib_build/libdlib.a
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_gapi.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_stitching.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_aruco.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_bgsegm.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_bioinspired.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_ccalib.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dnn_objdetect.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dnn_superres.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dpm.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_face.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_fuzzy.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_hfs.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_img_hash.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_line_descriptor.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_quality.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_reg.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_rgbd.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_saliency.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_stereo.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_structured_light.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_superres.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_surface_matching.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_tracking.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_videostab.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_xfeatures2d.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_xobjdetect.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_xphoto.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/libX11.so
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/libatlas.so
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/libcblas.so
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/liblapack.so
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_shape.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_highgui.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_datasets.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_plot.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_text.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dnn.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_ml.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_phase_unwrapping.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_optflow.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_ximgproc.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_video.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_videoio.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_imgcodecs.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_objdetect.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_calib3d.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_features2d.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_flann.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_photo.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_imgproc.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_core.so.4.2.0
-/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so: CMakeFiles/frvt_11_facedaksha_000.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library /home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so"
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: CMakeFiles/frvt_11_facedaksha_000.dir/build.make
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: dlib_build/libdlib.a
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_gapi.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_stitching.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_aruco.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_bgsegm.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_bioinspired.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_ccalib.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dnn_objdetect.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dnn_superres.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dpm.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_face.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_fuzzy.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_hfs.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_img_hash.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_line_descriptor.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_quality.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_reg.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_rgbd.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_saliency.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_stereo.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_structured_light.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_superres.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_surface_matching.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_tracking.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_videostab.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_xfeatures2d.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_xobjdetect.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_xphoto.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/libX11.so
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/libatlas.so
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/libcblas.so
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/lib/x86_64-linux-gnu/liblapack.so
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_shape.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_highgui.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_datasets.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_plot.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_text.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_dnn.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_ml.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_phase_unwrapping.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_optflow.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_ximgproc.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_video.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_videoio.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_imgcodecs.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_objdetect.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_calib3d.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_features2d.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_flann.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_photo.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_imgproc.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: /usr/local/lib/libopencv_core.so.4.2.0
+/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so: CMakeFiles/frvt_11_facedaksha_000.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library /home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/frvt_11_facedaksha_000.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/frvt_11_facedaksha_000.dir/build: /home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so
+CMakeFiles/frvt_11_facedaksha_000.dir/build: /home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so
 
 .PHONY : CMakeFiles/frvt_11_facedaksha_000.dir/build
 
@@ -145,6 +145,6 @@ CMakeFiles/frvt_11_facedaksha_000.dir/clean:
 .PHONY : CMakeFiles/frvt_11_facedaksha_000.dir/clean
 
 CMakeFiles/frvt_11_facedaksha_000.dir/depend:
-	cd /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daksha/Descargas/frvt-master/11/src/facedakshaImp /home/daksha/Descargas/frvt-master/11/src/facedakshaImp /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build /home/daksha/Descargas/frvt-master/11/src/facedakshaImp/build/CMakeFiles/frvt_11_facedaksha_000.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/daksha/Documentos/frvt/11/src/facedakshaImp/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daksha/Documentos/frvt/11/src/facedakshaImp /home/daksha/Documentos/frvt/11/src/facedakshaImp /home/daksha/Documentos/frvt/11/src/facedakshaImp/build /home/daksha/Documentos/frvt/11/src/facedakshaImp/build /home/daksha/Documentos/frvt/11/src/facedakshaImp/build/CMakeFiles/frvt_11_facedaksha_000.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/frvt_11_facedaksha_000.dir/depend
 

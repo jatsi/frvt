@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.pdb"
-  "/home/daksha/Descargas/frvt-master/11/lib/libfrvt_11_facedaksha_000.so"
+  "/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.pdb"
+  "/home/daksha/Documentos/frvt/11/lib/libfrvt_11_facedaksha_000.so"
   "CMakeFiles/frvt_11_facedaksha_000.dir/facedakshafrvt11.cpp.o"
 )
 
