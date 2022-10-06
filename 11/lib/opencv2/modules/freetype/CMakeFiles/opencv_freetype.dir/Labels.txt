@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_freetype
+ Module
+# Source files and their labels
+/home/katia/opencv_contrib-4.2.0/modules/freetype/include/opencv2/freetype.hpp
+ Extra
+ opencv_freetype
+ Module
+/home/katia/opencv_contrib-4.2.0/modules/freetype/src/freetype.cpp
+ Extra
+ opencv_freetype
+ Module
+/home/katia/opencv_contrib-4.2.0/modules/freetype/src/precomp.hpp
+ Extra
+ opencv_freetype
+ Module
+/home/katia/build/cvconfig.h
+/home/katia/build/opencv2/opencv_modules.hpp

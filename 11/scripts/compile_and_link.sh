@@ -2,7 +2,7 @@
 
 source ../common/scripts/utils.sh
 
-FRVTLIB="libfrvt_11_<company>_<three digit sequence>.so"
+FRVTLIB="frvt_11_facedaksha_000.so"
 root=$(pwd)
 approot=$root/bin
 libroot=$root/lib
